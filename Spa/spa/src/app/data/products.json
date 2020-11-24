@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name":"Kebab",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }, {
+            "name": "Petite Barquette",
+            "price": 5 
+        }, {
+            "name": "Grande Barquette",
+            "price": 8 }
+        ]
+    },
+    {
+        "id": 2,
+        "name":"Kofte",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 3,
+        "name":"Steak",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 4,
+        "name":"Brochette Poulet",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 5,
+        "name":"Chicken",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 6,
+        "name":"Brochette Agneau",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }, {
+            "name": "Petite Barquette",
+            "price": 5 
+        }, {
+            "name": "Grande Barquette",
+            "price": 8 }
+        ]
+    },
+    {
+        "id": 7,
+        "name":"Galette",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 8,
+        "name":"Adana",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 9,
+        "name":"Merguez",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 10,
+        "name":"Cordon Bleu",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    },
+    {
+        "id": 11,
+        "name":"Deluxe",
+        "sizes": [
+        {
+            "name": "sandwich",
+            "price": 5.5
+        }, {
+            "name": "assiette",
+            "price": 9 
+        }
+        ],
+        "meat1":["kebab", "kofte", "steak", "Adana"]
+
+    },
+    {
+        "id": 12,
+        "name":"Lahmacun Pizza Turc",
+        "sizes": [
+        {
+            "name": "seul",
+            "price": 5.5
+        },
+        {
+            "name": "avec frite",
+            "price": 3.5
+        },
+        {
+            "name": "frite et viande",
+            "price": 5.5
+        }
+        ]
+    },
+    {
+        "id": 10,
+        "name":"Côtelette d'agneau",
+        "sizes": [
+        {
+            "name": "assiette",
+            "price": 9 
+        }
+        ]
+    }
+
+]
