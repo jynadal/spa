@@ -5,16 +5,21 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
-            "price": 9 
+            "price": 9,
+            "image": "https://www.aujardindesdelices.com/images/carte/nos-kebabs/assiette-kebab.jpg"
         }, {
             "name": "Petite Barquette",
-            "price": 5 
+            "price": 5 ,
+            "image":"https://mustikebab.com/wp-content/uploads/2016/02/petite-barquette-kebab-musti-kebab.jpg"
         }, {
             "name": "Grande Barquette",
-            "price": 8 }
+            "price": 8,
+            "image": "https://restosprint.fr/280-large_default/grande-barquette-kebab.jpg"
+         }
         ]
     },
     {
@@ -23,7 +28,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -36,7 +42,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -49,7 +56,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -62,7 +70,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -75,7 +84,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -93,7 +103,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  "image": 
+            "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -106,7 +117,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  "image": 
+            "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -119,7 +131,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -132,7 +145,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
@@ -145,7 +159,8 @@
         "sizes": [
         {
             "name": "sandwich",
-            "price": 5.5
+            "price": 5.5,  
+            "image": "https://www.legyroshonfleur.fr/image_produit.php?id=186&genre=5,2"
         }, {
             "name": "assiette",
             "price": 9 
